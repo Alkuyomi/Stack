@@ -1,0 +1,38 @@
+.tabpane {
+ -fx-background-color: #66696E ;   
+
+ -fx-border-color: #C20000 ;
+ 
+    
+}
+
+.tabs {
+ -fx-background-color: #C20000 ;   
+ -fx-background-insets: 0 1 0 1,0,0;
+ 
+ 
+    
+}
+.status{
+    -fx-background-color: #66696E ; 
+     -fx-background-insets: 0 1 0 1,0,0;
+
+}
+
+
+.main_layout{
+     -fx-background-color: #66696E ;   
+    
+}
+
+.comp{
+    -fx-text-fill: #FFFFFF ;
+}
+
+.btn{
+   
+ -fx-border-color: #C20000 ; 
+ -fx-background-color : #767578 ;
+ -fx-text-fill: #FFFFFF ;
+}
+
